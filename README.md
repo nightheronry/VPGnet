@@ -6,7 +6,7 @@ First running swig.sh to compile and install IPM module.
 And referring to inference.ipynb.
 
 <img src="./output.png" width="400">
-
+{'cyan': 17(marking), 'blue': 4(single white), 'green': 4(dashed yellow), 'black': 1(single white), 'maroon': 17(marking), 'red': 1(single white), 'yellow': 1(single white)}
 ## ::::::::::::::::  Original Project Information ::::::::::::::::::
 
 ## [VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition]
