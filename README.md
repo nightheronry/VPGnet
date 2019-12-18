@@ -5,6 +5,8 @@ Workspace is under directory VPGnet/caltech-lanes-dataset/caltech-lane-detection
 First running swig.sh to compile and install IPM module.
 And referring to inference.ipynb.
 
+<img src="./output.png" width="400">
+
 ## ::::::::::::::::  Original Project Information ::::::::::::::::::
 
 ## [VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition]
