@@ -2,6 +2,11 @@
  *"[Demo Image](https://github.com/nightheronry/VPGnet/blob/master/caltech-lanes-dataset/caltech-lane-detection/src/test_img/1.jpg)" 
  by [Garmin Corporation](https://www.garmin.com.tw) 
  licensed under [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) / cropped from original*
+
+## Workflow
+
+<img src="./workflow.png" width="400">
+
 ## Example
 Workspace is under directory VPGnet/caltech-lanes-dataset/caltech-lane-detection/src.
 First running swig.sh to compile and install IPM module.
